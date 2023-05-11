@@ -22,9 +22,9 @@ const navigate = useNavigate();
               <div className="collapse navbar-collapse">
                 <ul className="navbar-nav mr-auto">
                   <li className="nav-item">
-                    <NavLink className="nav-link" to="/company">
+                    <NavLink className="nav-link" to="/dashboard">
                       {" "}
-                      Select Assignment{" "}
+                      Dashboard{" "}
                     </NavLink>
                   </li>
                   {/* <li className="nav-item"><NavLink className="nav-link" exact to="/company"> My office </NavLink></li>  */}
